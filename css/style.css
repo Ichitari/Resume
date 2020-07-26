@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #f5f7fa;
+    padding: 20px;
+}
+
+h3 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+/* li {
+    color: #b3c5d4;
+} */
+
+.main-container {
+    display: flex;
+    background: #fff;
+    /* background: linear-gradient(to top, #5573a3, white); */
+}
+
+.sidebar {
+    background: #1e2939;
+    /* background: linear-gradient(to top, black, white); */
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.sidebar h3 {
+    color: white;
+}
+.photo {
+    width: 370px;
+}
+
+.contacts-container a {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 24px;
+    color: #434c5a;
+}
+.contacts-container span {
+    
+    line-height: 24px;
+    color: white;
+    margin-right: 5px;
+}
+
+.sidebar li {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 24px;
+    color: #f7690a;
+    margin-left: 15px;
+}
+
+.sidebar li span {
+    color: #afa9a6;;
+}
+
+.contacts-container {
+    margin-left: 40px;
+    margin-top: 60px;
+    margin-right: 40px;   
+}
+
+.scill-container {
+    margin-top: 55px;
+    margin-right: 40px;
+    margin-left: 40px;
+} 
+
+
+
+
+.about-container {
+    
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+.about-container h2 {
+font-size: 1rem;
+/* font-size: 14px; */
+font-weight: 700;
+line-height: 24px;
+margin-bottom: 23px;
+}
+
+.about-container h1 {
+    /* font-size: 45px; */
+    font-size: 2.8rem;
+    font-weight: 700;
+    line-height: 89px;
+    color: linear-gradient(to top, #5573a3, white); 
+}
+.about-container p {
+    font-size: 1rem;
+font-weight: 300;
+line-height: 24px;
+color: #595959;
+margin-top: 24px;
+}
+
+.info-container {
+    margin-bottom: 65px;
+}
+
+.about-container a {
+    color: #595959;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 24px;
+}
+.about-container span {
+    color: #595959;
+
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 24px;
+}
+.tehno-name {
+    color: #595959;
+
+font-size: 1rem;
+font-weight: 400;
+line-height: 24px;
+}
+
+.about-container ol li {
+    font-weight: 700;
+    color: black;
+    margin-left: 17px;
+}
+
+.project-container {
+    margin-bottom: 60px;
+}
+.about-container h4 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.oringe-text {
+    color: #f7690a;
+
+}
+
+.about-container ul li {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 17px;
+    color: #595959;
+    letter-spacing: 0.42px;
+}
+
+.education-container {
+    margin-top: 45px;
+}
